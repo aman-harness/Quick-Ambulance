@@ -1,0 +1,6 @@
+{"contact":"1254","longi":"73.041317","lati":"26.2003289","name":"ab"}
+{ contact: '1254',
+  longi: '73.041317',
+  lati: '26.2003289',
+  name: 'ab' }
+Unable to connect to the mongoDB server. Error: { [MongoError: connect ECONNREFUSED] name: 'MongoError', message: 'connect ECONNREFUSED' }
